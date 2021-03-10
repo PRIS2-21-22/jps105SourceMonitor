@@ -3,7 +3,6 @@ package codigo;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-
 public class Customer {
 
 private String name;
